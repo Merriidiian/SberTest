@@ -1,0 +1,15 @@
+D:\C# projects\TestSber\TestSber\bin\Debug\net6.0\TestSber.exe
+D:\C# projects\TestSber\TestSber\bin\Debug\net6.0\TestSber.deps.json
+D:\C# projects\TestSber\TestSber\bin\Debug\net6.0\TestSber.runtimeconfig.json
+D:\C# projects\TestSber\TestSber\bin\Debug\net6.0\TestSber.dll
+D:\C# projects\TestSber\TestSber\bin\Debug\net6.0\TestSber.pdb
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.csproj.AssemblyReference.cache
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.AssemblyInfoInputs.cache
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.AssemblyInfo.cs
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.csproj.CoreCompileInputs.cache
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.dll
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\refint\TestSber.dll
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.pdb
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\TestSber.genruntimeconfig.cache
+D:\C# projects\TestSber\TestSber\obj\Debug\net6.0\ref\TestSber.dll
