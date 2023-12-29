@@ -9,6 +9,7 @@
     /// <exception cref="ArgumentNullException">Thrown when raw or separator param is null</exception>
     /// <exception cref="ArgumentException">Thrown when separator param is empty string</exception>
     /// <exception cref="FormatException">Thrown when ip address is invalid</exception>
+    IReadOnlyCollection<IPAddress> Parse(string raw, string separator);
 
 ## Тесты
 1) Тестовый случай, когда входные параметры не равны null и не пустые. raw = "192.168.0.1,192.168.0.2,192.168.0.3", separator = ","
